@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddhant Khare</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=⚡+Full+Stack+Developer;🧠+AI+Tools+and+Automation;💻+Backend+%26+System+Design;📊+PostgreSQL+%26+Optimization;☁️+DevOps+and+Deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%A7%A0+AI+Tools+and+Automation;%F0%9F%92%BB+Backend+%26+System+Design;%F0%9F%93%8A+PostgreSQL+%26+Optimization;%E2%98%81%EF%B8%8F+DevOps+and+Deployment" alt="Typing SVG" />
+
 </div>
 
 ---
